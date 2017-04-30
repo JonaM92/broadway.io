@@ -1,5 +1,6 @@
 * {
   font-family: Helvetica; sans-serif;
+  text-align: center;
 }
 
 .top h1 {
@@ -11,8 +12,7 @@
 
 
 .top {
-    background-image: url("./resources/images/building.png");
-    color: white;
+    background-image: url("building.png"); white;
 }
 
 h1, h2, h3 {
@@ -21,4 +21,9 @@ h1, h2, h3 {
   .nav {
       font-size: 18px;
       color: white;
+      text-align: center;
+  }
+
+  .info h2 {
+      font-size: 32px;
   }
